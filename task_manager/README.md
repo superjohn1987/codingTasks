@@ -9,7 +9,7 @@ You can simply run the code with Python.
 This is a sample for:
 1. A menu
 2. Save and read files as data model
-3. Write unit test
+3. Write unit test cases
 
 Author:
 <a href="https://github.com/superjohn1987">John Chan</a>
